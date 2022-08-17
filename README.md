@@ -21,7 +21,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 
 <p align="center">
 <a href="https://www.linkedin.com/in/parasaghi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="parasaghi" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@parasaghi" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/@parasaghi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@parasaghi" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/parasbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@parasaghi" height="25" width="25" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/the_parasaghi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_parasaghi" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
